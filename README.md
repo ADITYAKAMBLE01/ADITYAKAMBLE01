@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ADITYAKAMBLE01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Data science and Data Analyst
+- 🌱 I’m currently pursing Data analyst
 - 💞️ I’m looking to collaborate on SQL Project
